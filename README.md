@@ -1,6 +1,6 @@
 # Bank Account
 
-This is an example Android Application README to show briefly the sections your app README should contain.
+가계부 정리를 위한 간단한 안드로이드 어플리케이션
 
 ## Installation
 Clone this repository and import into **Android Studio**
