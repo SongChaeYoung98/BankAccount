@@ -28,4 +28,6 @@
 
 ## Demo
 
-- Main (First Page)
+- 메인
+- 진입 후 화면
+- 품목 삭제
