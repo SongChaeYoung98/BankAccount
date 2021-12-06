@@ -29,5 +29,6 @@
 ## Demo
 
 - 메인
+![Screenshot_20211108-191110](https://user-images.githubusercontent.com/93585651/144855004-97c86b24-988f-49be-9767-a878b2b76345.jpg)
 - 진입 후 화면
 - 품목 삭제
