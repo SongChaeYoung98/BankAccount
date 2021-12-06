@@ -2,45 +2,31 @@
 
 가계부 정리를 위한 간단한 안드로이드 어플리케이션
 
+
 ## Installation
-Clone this repository and import into **Android Studio**
-```bash
-git clone git@github.com:wolox/<reponame>.git
-```
+
+위 파일을 다운 받고 'app > release > app-release.apk'을 안드로이드 기기에 다운받아 설치하시면 됩니다.
+
 
 ## Configuration
-### Keystores:
-Create `app/keystore.gradle` with the following info:
-```gradle
-ext.key_alias='...'
-ext.key_password='...'
-ext.store_password='...'
-```
-And place both keystores under `app/keystores/` directory:
-- `playstore.keystore`
-- `stage.keystore`
+
+- activity_entry.xml : 소모 금액 레이아웃
+- activity_main.xml : 메인 레이아웃
+- list_item.xml : 품목명, 금액 분할용 레이아웃
+- entry : DB 정의
+- MainActivity : 메인
+- MyCursorAdapter : 뷰의 속성 지정, 반환
+- MyDBHelper : DB 저장
 
 
-## Build variants
-Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
+##  How to Use
+
+1. 입력하고 싶은 날짜 클릭
+2. 품목명, 소모된 가격 입력 시 총액 표시
+3. 특정 리스트 삭제 시 해당 라인 길게 클릭 후 삭제
 
 
-## Generating signed APK
-From Android Studio:
-1. ***Build*** menu
-2. ***Generate Signed APK...***
-3. Fill in the keystore information *(you only need to do this once manually and then let Android Studio remember it)*
+## Demo
 
-## Maintainers
-This project is mantained by:
-* [Federico Ramundo](http://github.com/framundo)
-
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -m 'Add some feature')
-4. Run the linter (ruby lint.rb').
-5. Push your branch (git push origin my-new-feature)
-6. Create a new Pull Request
+- Main (First Page)
+-  
