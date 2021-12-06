@@ -5,7 +5,7 @@
 
 ## Installation
 
-위 파일을 다운 받고 'app > release > app-release.apk'을 안드로이드 기기에 저장 후 설치.
+위 파일을 다운 받고 'app > release > app-release.apk'을 안드로이드 기기에 저장 후 설치
 
 
 ## Configuration
