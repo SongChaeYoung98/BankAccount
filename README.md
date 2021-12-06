@@ -29,12 +29,12 @@
 ## Demo
 
 - 메인
-![Screenshot_20211108-191110](https://user-images.githubusercontent.com/93585651/144855004-97c86b24-988f-49be-9767-a878b2b76345.jpg)
+![Screenshot_20211108-191110](https://user-images.githubusercontent.com/93585651/144855004-97c86b24-988f-49be-9767-a878b2b76345.jpg)  
 
 
 - 진입 후 화면
 ![Screenshot_20211108-191406](https://user-images.githubusercontent.com/93585651/144855099-81638edb-596d-4a8e-9e9c-22ac84340488.jpg)
-
+  
 
 - 품목 삭제
-![Screenshot_20211108-191412](https://user-images.githubusercontent.com/93585651/144855152-dd7db38b-b787-4177-823e-919bfd84d4a6.jpg)
+![Screenshot_20211108-191412](https://user-images.githubusercontent.com/93585651/144855152-dd7db38b-b787-4177-823e-919bfd84d4a6.jpg)  
