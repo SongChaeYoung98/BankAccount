@@ -29,5 +29,4 @@
 ## Demo
 
 - Main (First Page)
- images.githubusercontent.com/93585651/144853422-d45b4ac1-ffb4-43db-9d78-f32753314f5e.jpg)
-)  
+![Screenshot_20211108-191412](https://user-images.githubusercontent.com/93585651/144853404-a3c3c4a0-0ec4-4ff7-a8fa-73d1e81ec780.jpg
